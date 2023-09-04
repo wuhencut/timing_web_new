@@ -1,0 +1,39 @@
+.header {
+  position: fixed;
+  left: 0;
+  top: 0;
+  right: 0;
+  background-color: #fff;
+  padding: 16px 80px;
+  display: flex;
+  border-bottom: 1px solid #D8D8D8;
+  z-index: 1000;
+}
+.header .logo {
+  flex: 1;
+} 
+
+.header .logo img {
+  height: 50px;
+  width: 160px;
+}
+
+.header .tabs {
+  display: flex;
+}
+
+.header .tabs .tab {
+  color: #10193A;
+  text-decoration: none;
+  cursor: pointer;
+  line-height: 55px;
+  flex: 1;
+  padding-left: 50px;
+  white-space: nowrap;
+  font-weight: 600;
+}
+
+.header .tabs .tab.active {
+  color: #00669F;
+}
+
