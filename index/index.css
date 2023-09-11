@@ -97,7 +97,7 @@
   display: flex;
   justify-content: space-between;
   width: 458px;
-  height: 124px;
+  height: 144px;
   margin: 0 auto;
 }
 
@@ -105,8 +105,8 @@
   text-decoration: none;
   border: 1px solid #00669E;
   text-align: center;
-  width: 130px;
-  padding-top: 38px;
+  width: 140px;
+  padding-top: 58px;
   color: #10193A;
   top: 0;
 }
