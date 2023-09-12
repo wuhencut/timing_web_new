@@ -99,6 +99,10 @@
   background-size: cover;
 }
 
+.main4 {
+  padding: 0;
+}
+
 .main4 .main4-right {
   flex: 1;
   background: url(./img/img4.png) center center no-repeat;
