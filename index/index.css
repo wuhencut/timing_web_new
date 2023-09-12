@@ -93,6 +93,14 @@
   padding-bottom: 68px;
 }
 
+.rects-container-title {
+  font-size: 20px;
+  font-family: PingFangSC-Regular, PingFang SC;
+  font-weight: 400;
+  color: #00669E;
+  line-height: 27px;
+}
+
 .rects {
   display: flex;
   justify-content: space-between;
@@ -129,7 +137,7 @@
 }
 
 .mian3-rects {
-  width: 332px;
+  width: 500px;
 }
 
 .main3 {
