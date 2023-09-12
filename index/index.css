@@ -91,6 +91,7 @@
   line-height: 1.5;
   text-align: left;
   padding-bottom: 68px;
+  text-align: justify;
 }
 
 .rects-container-title {
@@ -137,7 +138,7 @@
 }
 
 .mian3-rects {
-  width: 500px;
+  width: 458px;
 }
 
 .main3 {

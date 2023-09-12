@@ -87,15 +87,16 @@
 
 .page .main5-items {
   padding-top: 40px;
-  width: 50vw;
+  width: 790px;
   display: flex;
-  justify-content: space-between;
+  /* justify-content: space-between; */
   margin: 0 auto;
 }
 
 .page .main5-item {
   text-align: center;
   width: 236px;
+  margin-right: 36px;
   height: 176px;
   display: flex;
   align-items: center;
@@ -104,6 +105,10 @@
   font-size: 20px;
   cursor: pointer;
   font-weight: bold;
+}
+
+.page .main5-item:last-child {
+  margin-right: 0px;
 }
 
 .page .main5-item:hover {
