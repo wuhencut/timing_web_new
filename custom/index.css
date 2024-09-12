@@ -1,7 +1,7 @@
 .main1 {
   height: 100vh;
   position: relative;
-  background: url(./img1/img1.png) center center no-repeat;
+  background: url(./img/img1.png) center center no-repeat;
   background-size: cover;
 }
 
@@ -44,7 +44,7 @@
 
 .main2 .left {
   padding-left: 112px;
-  padding-right: 40px;
+  padding-right: 100px;
   padding-top: 42px;
 }
 
@@ -106,7 +106,7 @@
 
 .main3 .right {
   padding-top: 42px;
-  padding-left: 40px;
+  padding-left: 100px;
   padding-right: 112px;
   padding-bottom: 120px;
 }
@@ -170,7 +170,7 @@
 
 .main4 .left {
   padding-left: 112px;
-  padding-right: 40px;
+  padding-right: 100px;
   padding-top: 42px;
   padding-bottom: 84px;
 }
@@ -224,11 +224,6 @@
   flex: 1;
   background: url(./img/img4.png) center center no-repeat;
   background-size: cover;
-}
-
-.main5 {
-  margin-top: 180px;
-  position: relative;
 }
 
 .main5 .bg1, .main5 .bg2{
