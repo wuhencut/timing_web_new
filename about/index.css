@@ -1,5 +1,6 @@
 .page {
   font-family: PingFangSC-Light, PingFang SC;
+  color: #10193A;
 }
 .page .main1 {
   height: 100vh;
@@ -37,6 +38,7 @@
   padding-bottom: 136px;
   font-weight: bold;
   letter-spacing: 4px;
+  color: #10193A;
 }
 
 .page .main3-title {
