@@ -36,9 +36,8 @@
 }
 
 .main2 {
-  padding-top: 138px;
+  margin-top: 138px;
   display: flex;
-  padding-bottom: 180px;
 }
 
 .main2 .left {
@@ -110,7 +109,7 @@
 }
 
 .main3 {
-  padding-bottom: 180px;
+  margin-top: 180px;
   display: flex;
 }
 

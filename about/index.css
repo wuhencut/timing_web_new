@@ -18,7 +18,7 @@
 .page .main2 {
   font-size: 16px;
   font-family: PingFangSC-Light, PingFang SC;
-  font-weight: 300;
+  font-weight: normal;
   color: #10193A;
   line-height: 30px;
   text-align: center;
@@ -32,6 +32,7 @@
   color: #10193A;
   /* line-height: 1.7; */
   font-size: 16px;
+  font-weight: normal;
 }
 
 .page .main3 {
